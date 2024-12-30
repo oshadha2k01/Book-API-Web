@@ -1,1 +1,2 @@
 # Book-API-Web
+This project is a web application that retrieves book details from the Google Books API and displays them in a user-friendly interface. It features a search bar where users can enter keywords to search for books. Each book displays its title, author(s), cover image, and average rating represented by visually appealing star icons. The app is built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS for a modern and responsive design.
